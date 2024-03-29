@@ -6,8 +6,24 @@ class SinhVien{
     public string DiaChi;
 }
 
-class ThongTinTro{
+class ChuTro{
+    public string HoTen;
+    public float SoDienThoai;
     public string DiaChi;
+    List<DS_NguoiThue> ds_nguoithue;
+
+    public void Them(){}
+    public void Sua(){}
+    public void Xoa(){}
 
 
 }
+
+class DS_NguoiThue{
+    public float SDT;
+    public string HoTen;
+    public DateTime ngayBatDau;
+    public DateTime ngayKetThuc;
+
+}
+class 
