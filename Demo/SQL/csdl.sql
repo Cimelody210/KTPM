@@ -1,9 +1,9 @@
 
 create table ChuTro(
 
-    Ten varchar(50),
+    Ten varchar(50) not null,
     SoDienThoai float,
-    DiaChi varchar(100),
+    DiaChi varchar(100) not null
 );
 
 create table ThongTinTro(
