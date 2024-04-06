@@ -1,2 +1,2 @@
 # KTPM
-Link online:
+Link https://paiza.io/en/projects/new?language=mysql
