@@ -1,0 +1,180 @@
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\yami-ai\bin\Debug\yami-ai.exe.config
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\yami-ai\bin\Debug\yami-ai.exe
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\yami-ai\bin\Debug\yami-ai.pdb
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\yami-ai\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\yami-ai\bin\Debug\Newtonsoft.Json.dll
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\yami-ai\bin\Debug\RestSharp.dll
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\yami-ai\bin\Debug\System.Buffers.dll
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\yami-ai\bin\Debug\System.Memory.dll
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\yami-ai\bin\Debug\System.Numerics.Vectors.dll
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\yami-ai\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\yami-ai\bin\Debug\System.Text.Encodings.Web.dll
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\yami-ai\bin\Debug\System.Text.Json.dll
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\yami-ai\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\yami-ai\bin\Debug\System.ValueTuple.dll
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\yami-ai\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\yami-ai\bin\Debug\Newtonsoft.Json.xml
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\yami-ai\bin\Debug\RestSharp.xml
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\yami-ai\bin\Debug\System.Buffers.xml
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\yami-ai\bin\Debug\System.Memory.xml
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\yami-ai\bin\Debug\System.Numerics.Vectors.xml
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\yami-ai\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\yami-ai\bin\Debug\System.Text.Encodings.Web.xml
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\yami-ai\bin\Debug\System.Text.Json.xml
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\yami-ai\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\yami-ai\bin\Debug\System.ValueTuple.xml
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\yami-ai\obj\Debug\yami-ai.csproj.AssemblyReference.cache
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\yami-ai\obj\Debug\yami-ai.csproj.SuggestedBindingRedirects.cache
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\yami-ai\obj\Debug\yami_ai.Form1.resources
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\yami-ai\obj\Debug\yami_ai.Properties.Resources.resources
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\yami-ai\obj\Debug\yami-ai.csproj.GenerateResource.cache
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\yami-ai\obj\Debug\yami-ai.csproj.CoreCompileInputs.cache
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\yami-ai\obj\Debug\yami-ai.csproj.CopyComplete
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\yami-ai\obj\Debug\yami-ai.exe
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\yami-ai\obj\Debug\yami-ai.pdb
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\kịch bản + demo\yami-ai\yami-ai\obj\Debug\yami-ai.csproj.AssemblyReference.cache
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\kịch bản + demo\yami-ai\yami-ai\obj\Debug\yami-ai.csproj.SuggestedBindingRedirects.cache
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\kịch bản + demo\yami-ai\yami-ai\obj\Debug\yami_ai.Form1.resources
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\kịch bản + demo\yami-ai\yami-ai\obj\Debug\yami_ai.Properties.Resources.resources
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\kịch bản + demo\yami-ai\yami-ai\obj\Debug\yami-ai.csproj.GenerateResource.cache
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\kịch bản + demo\yami-ai\yami-ai\obj\Debug\yami-ai.csproj.CoreCompileInputs.cache
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\kịch bản + demo\yami-ai\yami-ai\obj\Debug\yami-ai.exe
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\kịch bản + demo\yami-ai\yami-ai\obj\Debug\yami-ai.pdb
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\kịch bản + demo\yami-ai\yami-ai\bin\Debug\yami-ai.exe.config
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\kịch bản + demo\yami-ai\yami-ai\bin\Debug\yami-ai.exe
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\kịch bản + demo\yami-ai\yami-ai\bin\Debug\yami-ai.pdb
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\kịch bản + demo\yami-ai\yami-ai\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\kịch bản + demo\yami-ai\yami-ai\bin\Debug\Newtonsoft.Json.dll
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\kịch bản + demo\yami-ai\yami-ai\bin\Debug\RestSharp.dll
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\kịch bản + demo\yami-ai\yami-ai\bin\Debug\System.Buffers.dll
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\kịch bản + demo\yami-ai\yami-ai\bin\Debug\System.Memory.dll
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\kịch bản + demo\yami-ai\yami-ai\bin\Debug\System.Numerics.Vectors.dll
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\kịch bản + demo\yami-ai\yami-ai\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\kịch bản + demo\yami-ai\yami-ai\bin\Debug\System.Text.Encodings.Web.dll
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\kịch bản + demo\yami-ai\yami-ai\bin\Debug\System.Text.Json.dll
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\kịch bản + demo\yami-ai\yami-ai\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\kịch bản + demo\yami-ai\yami-ai\bin\Debug\System.ValueTuple.dll
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\kịch bản + demo\yami-ai\yami-ai\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\kịch bản + demo\yami-ai\yami-ai\bin\Debug\Newtonsoft.Json.xml
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\kịch bản + demo\yami-ai\yami-ai\bin\Debug\RestSharp.xml
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\kịch bản + demo\yami-ai\yami-ai\bin\Debug\System.Buffers.xml
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\kịch bản + demo\yami-ai\yami-ai\bin\Debug\System.Memory.xml
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\kịch bản + demo\yami-ai\yami-ai\bin\Debug\System.Numerics.Vectors.xml
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\kịch bản + demo\yami-ai\yami-ai\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\kịch bản + demo\yami-ai\yami-ai\bin\Debug\System.Text.Encodings.Web.xml
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\kịch bản + demo\yami-ai\yami-ai\bin\Debug\System.Text.Json.xml
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\kịch bản + demo\yami-ai\yami-ai\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\kịch bản + demo\yami-ai\yami-ai\bin\Debug\System.ValueTuple.xml
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\kịch bản + demo\yami-ai\yami-ai\obj\Debug\yami-ai.csproj.CopyComplete
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\kịch bản + demo\yami-ai\yami-ai\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\kịch bản + demo\yami-ai\yami-ai\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\kịch bản + demo\yami-ai\yami-ai\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\game\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\yami-ai.exe.config
+D:\game\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\yami-ai.exe
+D:\game\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\yami-ai.pdb
+D:\game\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\game\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\game\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\Newtonsoft.Json.dll
+D:\game\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\RestSharp.dll
+D:\game\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Buffers.dll
+D:\game\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Memory.dll
+D:\game\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Numerics.Vectors.dll
+D:\game\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\game\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Text.Encodings.Web.dll
+D:\game\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Text.Json.dll
+D:\game\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\game\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.ValueTuple.dll
+D:\game\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\game\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\game\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\game\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\Newtonsoft.Json.xml
+D:\game\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\RestSharp.xml
+D:\game\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Buffers.xml
+D:\game\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Memory.xml
+D:\game\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Numerics.Vectors.xml
+D:\game\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\game\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Text.Encodings.Web.xml
+D:\game\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Text.Json.xml
+D:\game\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\game\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.ValueTuple.xml
+D:\game\Đồ án cơ sở\Nhom43_CTK45\yami-ai\obj\Debug\yami-ai.csproj.AssemblyReference.cache
+D:\game\Đồ án cơ sở\Nhom43_CTK45\yami-ai\obj\Debug\yami-ai.csproj.SuggestedBindingRedirects.cache
+D:\game\Đồ án cơ sở\Nhom43_CTK45\yami-ai\obj\Debug\yami_ai.Form1.resources
+D:\game\Đồ án cơ sở\Nhom43_CTK45\yami-ai\obj\Debug\yami_ai.Properties.Resources.resources
+D:\game\Đồ án cơ sở\Nhom43_CTK45\yami-ai\obj\Debug\yami-ai.csproj.GenerateResource.cache
+D:\game\Đồ án cơ sở\Nhom43_CTK45\yami-ai\obj\Debug\yami-ai.csproj.CoreCompileInputs.cache
+D:\game\Đồ án cơ sở\Nhom43_CTK45\yami-ai\obj\Debug\yami-ai.csproj.CopyComplete
+D:\game\Đồ án cơ sở\Nhom43_CTK45\yami-ai\obj\Debug\yami-ai.exe
+D:\game\Đồ án cơ sở\Nhom43_CTK45\yami-ai\obj\Debug\yami-ai.pdb
+D:\Các Năm học\Năm 2 II\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\yami-ai.exe.config
+D:\Các Năm học\Năm 2 II\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\yami-ai.exe
+D:\Các Năm học\Năm 2 II\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\yami-ai.pdb
+D:\Các Năm học\Năm 2 II\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Các Năm học\Năm 2 II\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Các Năm học\Năm 2 II\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\Newtonsoft.Json.dll
+D:\Các Năm học\Năm 2 II\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\RestSharp.dll
+D:\Các Năm học\Năm 2 II\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Buffers.dll
+D:\Các Năm học\Năm 2 II\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Memory.dll
+D:\Các Năm học\Năm 2 II\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Numerics.Vectors.dll
+D:\Các Năm học\Năm 2 II\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Các Năm học\Năm 2 II\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Text.Encodings.Web.dll
+D:\Các Năm học\Năm 2 II\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Text.Json.dll
+D:\Các Năm học\Năm 2 II\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Các Năm học\Năm 2 II\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.ValueTuple.dll
+D:\Các Năm học\Năm 2 II\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\Các Năm học\Năm 2 II\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\Các Năm học\Năm 2 II\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Các Năm học\Năm 2 II\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\Newtonsoft.Json.xml
+D:\Các Năm học\Năm 2 II\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\RestSharp.xml
+D:\Các Năm học\Năm 2 II\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Buffers.xml
+D:\Các Năm học\Năm 2 II\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Memory.xml
+D:\Các Năm học\Năm 2 II\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Numerics.Vectors.xml
+D:\Các Năm học\Năm 2 II\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Các Năm học\Năm 2 II\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Text.Encodings.Web.xml
+D:\Các Năm học\Năm 2 II\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Text.Json.xml
+D:\Các Năm học\Năm 2 II\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Các Năm học\Năm 2 II\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.ValueTuple.xml
+D:\Các Năm học\Năm 2 II\Đồ án cơ sở\Nhom43_CTK45\yami-ai\obj\Debug\yami-ai.csproj.AssemblyReference.cache
+D:\Các Năm học\Năm 2 II\Đồ án cơ sở\Nhom43_CTK45\yami-ai\obj\Debug\yami_ai.Form1.resources
+D:\Các Năm học\Năm 2 II\Đồ án cơ sở\Nhom43_CTK45\yami-ai\obj\Debug\yami_ai.Properties.Resources.resources
+D:\Các Năm học\Năm 2 II\Đồ án cơ sở\Nhom43_CTK45\yami-ai\obj\Debug\yami-ai.csproj.GenerateResource.cache
+D:\Các Năm học\Năm 2 II\Đồ án cơ sở\Nhom43_CTK45\yami-ai\obj\Debug\yami-ai.csproj.CoreCompileInputs.cache
+D:\Các Năm học\Năm 2 II\Đồ án cơ sở\Nhom43_CTK45\yami-ai\obj\Debug\yami-ai.csproj.CopyComplete
+D:\Các Năm học\Năm 2 II\Đồ án cơ sở\Nhom43_CTK45\yami-ai\obj\Debug\yami-ai.exe
+D:\Các Năm học\Năm 2 II\Đồ án cơ sở\Nhom43_CTK45\yami-ai\obj\Debug\yami-ai.pdb
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\yami-ai.exe.config
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\yami-ai.exe
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\yami-ai.pdb
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\Newtonsoft.Json.dll
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\RestSharp.dll
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Buffers.dll
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Memory.dll
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Numerics.Vectors.dll
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Text.Encodings.Web.dll
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Text.Json.dll
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.ValueTuple.dll
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\Newtonsoft.Json.xml
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\RestSharp.xml
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Buffers.xml
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Memory.xml
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Numerics.Vectors.xml
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Text.Encodings.Web.xml
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Text.Json.xml
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\yami-ai\bin\Debug\System.ValueTuple.xml
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\yami-ai\obj\Debug\yami-ai.csproj.AssemblyReference.cache
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\yami-ai\obj\Debug\yami_ai.Form1.resources
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\yami-ai\obj\Debug\yami_ai.Properties.Resources.resources
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\yami-ai\obj\Debug\yami-ai.csproj.GenerateResource.cache
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\yami-ai\obj\Debug\yami-ai.csproj.CoreCompileInputs.cache
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\yami-ai\obj\Debug\yami-ai.csproj.Up2Date
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\yami-ai\obj\Debug\yami-ai.exe
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\yami-ai\obj\Debug\yami-ai.pdb
