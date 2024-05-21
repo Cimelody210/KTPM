@@ -1,0 +1,6 @@
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\YamiChatLibrary\bin\Debug\YamiChatLibrary.dll
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\YamiChatLibrary\bin\Debug\YamiChatLibrary.pdb
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\YamiChatLibrary\obj\Debug\YamiChatLibrary.csproj.AssemblyReference.cache
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\YamiChatLibrary\obj\Debug\YamiChatLibrary.csproj.CoreCompileInputs.cache
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\YamiChatLibrary\obj\Debug\YamiChatLibrary.dll
+E:\Các Năm học\Năm 2 I\Đồ án cơ sở\Nhom43_CTK45\YamiChatLibrary\obj\Debug\YamiChatLibrary.pdb
