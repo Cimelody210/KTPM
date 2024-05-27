@@ -7,6 +7,7 @@
    --black: #222;
    --light-color: #777;
    --border: .2rem solid var(--black);
+   --rose: #de2cb8e3;
 }
 
 * {
