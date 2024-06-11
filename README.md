@@ -6,9 +6,23 @@ remake lại cái đầu tiên
 remake cái thứ 3 và tái sử dụng của thk 1
 
 
+Weather
+
+https://drive.google.com/drive/folders/15D9w5wqIfJ8gZKa85TlKroMNRKRauS70
+
 Dart flutter LTDD
 
 https://drive.google.com/drive/folders/1uGrLmNiUqHFYIBqh9g_2fwxQOGaGKLHC
+
+E-commerce App Nhóm 5 K 
+
+https://drive.google.com/drive/folders/15D9w5wqIfJ8gZKa85TlKroMNRKRauS70
+
+App xem phim của K khác
+
+https://drive.google.com/drive/folders/1gxkrZ5jnmxi3QHmf6p_GO_b0s2jT7gsn
+
+
 
 
 
