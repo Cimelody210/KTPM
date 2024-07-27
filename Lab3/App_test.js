@@ -135,3 +135,11 @@ describe('App component', () => {
     // Add assertions for statistics page
   });
 });
+export default function BinarySearch(arr, target){
+  let left = 0;
+  let right = arr.length - 1;
+  while (left <= right){
+    if (target === arr[mid] return mid;
+    if (arr
+  }
+}
